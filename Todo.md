@@ -15,7 +15,9 @@
 1. Betriebssystem (Linux) ---> [Ubuntu](https://ubuntu.com/)
 
 2. Apache 2 ---> sudo apt install apache2
-    Zum restarten des Webserver z.b bei änderungen ---> sudo service apache2 restart
+
+    Zum restarten des Webserver z.b bei änderungen 
+    ---> sudo service apache2 restart
     
 
 
