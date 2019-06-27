@@ -16,6 +16,8 @@
 
 2. Apache 2 ---> sudo apt install apache2
 
+    PFad des HTML Files  /var/www/html 
+    
     Zum restarten des Webserver z.b bei änderungen 
     ---> sudo service apache2 restart
     
