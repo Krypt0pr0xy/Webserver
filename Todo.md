@@ -13,7 +13,7 @@
 
 
 1. Betriebssystem (Linux) ---> [Ubuntu](https://ubuntu.com/)
-
+  1a. Lohnenswert den Server zu Updaten ---> sudo apt-get update -y && sudo apt-get upgrade -y
 2. Apache 2 ---> sudo apt install apache2
 
     Pfad des HTML Files  /var/www/html 
